@@ -1,0 +1,2 @@
+../image/dog.jpg
+../image/cat.jpg
